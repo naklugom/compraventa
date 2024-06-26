@@ -1,0 +1,12 @@
+.btn-customa {
+    background-color: rgb(1, 2, 3);
+    color: rgb(240, 30, 30); /* Para que el texto sea visible */
+    border: none; /* Remover el borde */
+    padding: 10px 20px; /* Añadir algo de padding */
+    border-radius: 5px; /* Hacer los bordes redondeados */
+    cursor: pointer; /* Cambiar el cursor a puntero al pasar sobre el botón */
+}
+
+.btn-customa:hover {
+    background-color: rgb(0, 105, 217); /* Un color ligeramente diferente para el hover */
+}
